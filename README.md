@@ -68,7 +68,7 @@ Kemudian di deploy pada hub.docker.com
 
 
 ## 10. Materi Praktikum 10
-URL : [https://github.com/najibun/tcc/tree/master/minggu-10](https://github.com/najibun/tcc/tree/master/minggu-10)
+URL : [https://github.com/najibun/tcc/tree/master/minggu-10](https://github.com/najibun/tcc/tree/master/minggu-10)  
 **Ringkasan :**
 Tentang belajar fork.  
 suatu repo kemudian difork oleh user lain.  
@@ -78,17 +78,17 @@ kemudian owner dari repo pusat akan meng-allow
 atau apabila ada conflict bisa diperbaiki dahulu  
 
 ## 11. Materi Praktikum 11
-URL : [https://github.com/najibun/tcc/tree/master/minggu-11](https://github.com/najibun/tcc/tree/master/minggu-11)
+URL : [https://github.com/najibun/tcc/tree/master/minggu-11](https://github.com/najibun/tcc/tree/master/minggu-11)  
 **Ringkasan :**
 Tugas Kelompok menjalaskan IaaS tetapi dengan model fork, yaitu terdapat repo yang akan menjadi tempat untuk pull request
 
 ## 12. Materi Praktikum 12
-URL : [https://github.com/najibun/tcc/tree/master/minggu-12](https://github.com/najibun/tcc/tree/master/minggu-12)
+URL : [https://github.com/najibun/tcc/tree/master/minggu-12](https://github.com/najibun/tcc/tree/master/minggu-12)  
 **Ringkasan :**
 Menjelaskan tentang docker-compose dalam hal ini mendelpoy sebuah aplikasi drupal, dalam docker compose berisi perintah untuk mendeploy drupal dengan database postgres, beserta envirmonent nya
 
 ## 13. Materi Praktikum 13
-URL : [https://github.com/najibun/tcc/tree/master/minggu-13](https://github.com/najibun/tcc/tree/master/minggu-13)
+URL : [https://github.com/najibun/tcc/tree/master/minggu-13](https://github.com/najibun/tcc/tree/master/minggu-13)  
 **Ringkasan :**
 Belajar tenang docker swarm  
 secara garis besar docker swarm terdiri dari worker dan server  
