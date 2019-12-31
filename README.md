@@ -12,7 +12,7 @@ Adalah tentang membuat branch
 
 ## 3. Materi Praktikum 3
 URL : [https://github.com/najibun/tcc/tree/master/minggu-03](https://github.com/najibun/tcc/tree/master/minggu-03)  
-**Ringkasan : **
+**Ringkasan :**
 Menjelaskan Saas dan juga sejarang SaaS
 
 ## 4. Materi Praktikum 4
